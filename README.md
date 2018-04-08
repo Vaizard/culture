@@ -1,6 +1,6 @@
 # Culture
 
-Culture /ˈkʌltʃə/ _shared vlues, customs, and behaviour of a particular people or society_
+Culture /ˈkʌltʃə/: _shared values, customs, and behaviour of a particular people or society_
 
 ## Why facepalms drive me
 
@@ -29,9 +29,12 @@ The following principles are just a list of keywords intended to make you intere
   - sustainability
   - making sense and absence of (self-)deceive
   
-## The road towards applicability (eating your own dogfood)
+## The road towards applicability (eating your own dog-food)
 
-People won't accept a culture, unless there's a compelling **perceived value**. So, offering a diferent take on value exchange with some neat philosphical aspects is just not enough to attract reasonable adoption rates. This is where propper **interfacing** with current cultures is required. Consider only the economic aspects, people will still need to pay bills and buy food outside the culture's framework.
+People won't accept a culture, unless there's a compelling **perceived value**. So, offering a different take on value exchange with some neat philosophical aspects is just not enough to attract reasonable adoption rates. This is where proper **interfacing** with current cultures is required. Consider only the economic aspects, people will still need to pay bills and buy food outside the culture's framework.
 
 Thus, to kickstart adoption, the idea is to set up and run organizations and businesses that, on the inside, work within the culture's framework, but on the outside also provide the needed interfacing by paying wages, taxes, etc. These organizations are currently spawned according to the Kyocera model (having lots of small, but sharply focused business units, each seeking market excellence and dominance in a specific niche), while adhering to the [lattice](concepts/lattice.md) and [meritocracy](concepts/reputation-economy.md) principles. Among one another, these organizations exchange value according to both, the outside and the inside culture.
 
+## Challenges
+
+- **Universal applicability** Lets not kid ourselves, that this culture could be universally applicable to everyone. Early adopters will be a piece of cake, but dealing with the first generation of children born into the system may be easily lost. While the measure of [merit](concepts/reputation-economy.md) may include a measure of latent talent and the whole model revolves around enabling people to find a fulfilling place for themselves in the society, this will most likely end up with a nasty disaster. Accordingly, damage control should be already planned ahead (possibility to reject the culture, really well defined coexistence with current cultures, etc.)
