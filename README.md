@@ -8,7 +8,7 @@ Everybody knows, that the answer to Life, the Universe and Everything is 42. On 
 
 Realizing The Hardly Sustainable Facepalm coincided serendipitously with my final steps to self-discovery and eventually made "cutting bullshit and making sense" a driving principle of my life. I ended up with a pathological impulse to do and somehow succeed at stuff way beyond my capabilities and I've been enjoying the ride to the fullest. 
 
-This project tops it all. It has maybe like a million to one chance to become anywhere close to usable, but frankly I couldn't care less. Its been a real itch in my bones for years and since it requires some serious open-source collaboration I hope you'll just read on and maybe contribute by filing a bug or committing a pull-request.
+This project tops it all. It has maybe like a million to one chance to become anywhere close to usable, but frankly I couldn't care less. Its been a real itch in my bones for years and since it requires some serious open-source collaboration I hope you'll just read on and maybe contribute by filing a bug or committing a pull-request. All suggestions, improvements and critique will be gladly accepted.
 
 ## The goal
 
