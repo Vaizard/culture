@@ -15,7 +15,7 @@ This project tops it all. It has maybe like a million to one chance to become an
 The Grand Ultimate Goal is to build a culture (people connected through shared values) that
 
   - **leaves less space for bullshit™**
-  - **is compelling and accommodating**
+  - **is [compelling](goals/compelling.md)**
   - **is consciously evolving**
   - **can interface well with existing cultures (and survive in adverse conditions)**
   - **is self-contained with no loose ends**
@@ -29,3 +29,10 @@ The following principles are just a list of keywords intended to make you intere
   - freedom, self-determination and respect
   - sustainability
   - making sense and absence of (self-)deceive
+  
+## The road towards applicability (eating your own dogfood)
+
+People won't accept a culture, unless there's a compelling **perceived value**. So, offering a diferent take on value exchange with some neat philosphical aspects is just not enough to attract reasonable adoption rates. This is where propper **interfacing** with current cultures is required. Consider only the economic aspects, people will still need to pay bills and buy food outside the culture's framework.
+
+Thus, to kickstart adoption, the idea is to set up and run organizations and businesses that, on the inside, work within the culture's framework, but on the outside also provide the needed interfacing by paying wages, taxes, etc. These organizations are currently spawned according to the Kyocera model (having lots of small, but sharply focused business units, each seeking market excellence and dominance in a specific niche), while adhering to the [lattice](concepts/lattice.md) and [meritocracy](concepts/reputation-economy.md) principles. Among one another, these organizations exchange value according to both, the outside and the inside culture.
+
