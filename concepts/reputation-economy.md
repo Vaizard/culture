@@ -10,14 +10,21 @@ which both together construct the reputation economy, which defines success or f
 
 ## Merit
 
-The current concept of merit for this culture consists of:
+The current concept of merit for this culture cosiders following constituents:
 
 - skill/talent/capability in a field (I must respect John as the most skilled chef preparing pizza)
 - capacity to sponsor others in the field (Jeff is the best teacher of mathematics)
 - ability to cooperate in a field (If I need a carpenter's skill in my project, I'll be happiest with Fred)
+- ability to guide/lead/represent
+- potential (to shine)
+
+The last two may not be tied to the field.
+
 
 ## Economy
 
 - **Field size** - We let people adjust fields (and their size). A more fine-grained definition of a field will accomodate less people (amount of reputation tokens in the field will be inverse to the fine-grainedness of the field),
 a coarsely-defined field will be more competitive.
 - **Translating merit to fiat currency** - A part of the economic output of each business unit will be distributed according to achieved merit
+- **Universal basic merit** - Equivalent to the universal basic income
+- **Negative tokens** - Negative merit tokens are under consideration (either an exchange market between the negative and positve rputation tokens will be encouraged, or spending positive tokes will be possible either in their positive or negative value)
