@@ -16,7 +16,6 @@ The Grand Ultimate Goal is to build a culture (people connected through shared v
 
   - **leaves less space for bullshit™**
   - **is [compelling](goals/compelling.md)**
-  - **is consciously evolving**
   - **can interface well with existing cultures (and survive in adverse conditions)**
   - **is self-contained with no loose ends**
 
